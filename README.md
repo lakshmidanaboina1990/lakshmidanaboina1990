@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm D. Bhulakshmi
 
-<!--
-**lakshmidanaboina1990/lakshmidanaboina1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 ECE Graduate | M.Tech CSE Student | Embedded Systems & Robotics Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am passionate about technology, innovation, and developing practical engineering solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍🎓 Education
+- **B.Tech:** Vignan's Nirula
+- **Currently Pursuing:** M.Tech at Vignan University
+
+## 💻 Technical Skills
+- Embedded C
+- Python
+- Linux
+- MATLAB
+- Xilinx Vivado
+
+## 💼 Experience
+- Embedded C Training – Ritchee Technologies
+- 4 Years of Teaching Experience
+- ECE Lab Technician
+
+## 🚀 Projects
+- Radar-Based Project
+- Robotics Projects
+
+## 🌟 Areas of Interest
+- Embedded Systems
+- Internet of Things (IoT)
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Robotics
+- Software Development
+
+## 🎯 Career Objective
+To explore innovative technologies and develop real-world solutions by combining embedded systems, electronics, and computer science.
+
+## 🤝 Connect With Me
+- GitHub: [D.Bhulakshmi](https://github.com/)
+
+**"Learning, Building, and Innovating Every Day!"**
